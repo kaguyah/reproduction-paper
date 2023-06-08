@@ -1,0 +1,11 @@
+characterBits,8
+characterSpace,256
+codeCount,16
+maxCodeLength,7
+compressorCharsIn,8
+compressorBitsOut,32
+encoderParallelism,8
+passOneSize,4095
+accRepBufferSize,4096
+decompressorLineBits,32
+decompressorCharsOut,8
